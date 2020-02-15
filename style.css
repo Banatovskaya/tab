@@ -1,0 +1,44 @@
+.info-header {
+    background-color: #c78030;
+   height: 60px;
+    border: solid;
+    font-size: 3em;
+   
+}
+
+.info-header-tab {
+     margin-left: 150px;
+  
+    position: relative;
+    cursor: pointer;
+    display: inline;
+
+}
+.info-header-description{
+    margin-top: 8px;
+    font-size: 10em;
+    margin-left: 150px;
+    height: 250px;
+    width: 700px;
+    border: solid;
+    text-align: center;
+    display: block;
+    }
+
+#red{
+    background-color:red;
+}
+#gray{
+    background-color:gray;
+}
+#black{
+    background-color:black;
+    color:white;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: inline-block;
+    
+}
